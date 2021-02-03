@@ -13,12 +13,8 @@
  * limitations under the License.
  *
  */
-
 package lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model;
-
-/**
- * This POJO holds the information about an account.
- */
+//Account 180485M
 public class Account {
     private String accountNo;
     private String bankName;
